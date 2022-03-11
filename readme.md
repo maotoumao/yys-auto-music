@@ -2,6 +2,10 @@
 python 3.6+
 
 # 运行方式
+安装依赖
+```
+pip install keyboard
+```
 管理员模式 进入工程目录
 ```
 python ./index.py
